@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Debug.unity
+    path: Assets/Modules/LoadingManager/Deugging/Debug.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/LoadTest.unity
+    path: Assets/Modules/LoadingManager/Deugging/LoadTest.unity
     guid: f1899eea6bc75e448add5eb163bd53d7
   m_configObjects: {}
